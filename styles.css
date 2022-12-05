@@ -1,0 +1,67 @@
+/* .main-logo{
+    height: 6rem;
+    background-color: black;
+} */
+
+/* .logo{
+    width: 14rem;
+    height: 5rem;
+    border: 1px solid white;
+    margin: 8px 0px 0px 12rem ;
+} */
+/* 
+.low-nav{
+    height: 4rem;
+    background-color: #000099;
+} */
+
+
+/* .menu{
+    display: flex;
+    justify-content: flex-end;
+    margin: 2px 0px 0px -10.5rem ;
+    
+} */
+/* .menu div{
+    width: 8rem;
+    height: 3rem;
+    border: 1px solid white;
+    margin: 5px;
+    
+} */
+
+/* .call{
+    display: flex;
+    justify-content: flex-start;
+} */
+/* .call div{
+    width: 20rem;
+    height: 3rem;
+    border: 1px solid white;
+    margin-left: 20rem;
+    margin-top: 6px;
+   
+} */
+
+
+
+
+
+/* <div class="container-fluid">
+<div class="row main-logo">
+    <div class="col-md-12">
+      <div class="logo"></div> 
+      
+    </div>
+</div>
+<div class="row low-nav">
+    <div class="col-md-6 menu">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="col-md-6 call">
+        <div></div>
+    </div>
+</div>
+</div> */
